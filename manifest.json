@@ -1,0 +1,8 @@
+{
+  "name": "Roleta",
+  "short_name": "Roleta",
+  "start_url": "./roleta.html",
+  "display": "standalone",
+  "background_color": "#120a2a",
+  "theme_color": "#7928ca"
+}
